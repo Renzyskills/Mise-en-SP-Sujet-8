@@ -1,1 +1,4 @@
+pdfplumber
+python-docx
+regex
 
