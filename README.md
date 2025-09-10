@@ -193,7 +193,7 @@ Résultat attendu :
 
 ## 🚧 Limites actuelles
 
-⚠️ Taille max des fichiers non encore limitée (gros PDF → risque crash)
+
 ⚠️ Résultats non stockés en base (juste export PDF/JSON)
 ⚠️ Pas encore de Docker ni de reverse proxy HTTPS
 ⚠️ Pas de dashboard admin ni d’intégration SIEM
