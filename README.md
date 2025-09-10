@@ -16,9 +16,12 @@ Afin d’éviter toute fuite de données critiques, nous avons développé un **
 Ce moteur permet :
 
 * d’analyser des fichiers **PDF** et **TXT**,
+  
 * de détecter des informations sensibles (IBAN, CB, NIR, mails, téléphones…),
 * de calculer un **score de criticité**,
+  
 * de décider d’une action (LOG, WARN, ALERT, BLOCK),
+  
 * et de **générer un rapport PDF clair et professionnel**.
 
 ---
