@@ -1,0 +1,21 @@
+{
+  "channel": "email",
+  "decision": "BLOCK",
+  "file": "RIB-Omnes-Personnel-ANGEA RENZA-Keman Ngogang-279797.pdf",
+  "findings": [
+    {
+      "confidence": 0.9,
+      "match": "FR7630004040140045000038515",
+      "rule": "IBAN_FR",
+      "weight": 7
+    },
+    {
+      "confidence": 0.9,
+      "match": "04014 00450000385",
+      "rule": "PAN",
+      "weight": 9
+    }
+  ],
+  "preview": "ECETECH\n2/10 rue Sextius Michel\n75015 Paris\nRelevé d'Identité Bancaire / IBAN\nIBAN(1) [REDACTED]\nBIC(2) BNPAFRPPXXX\nCode banque Code agence Numéro de compte Clé RIB Agence de domiciliation\nIDF INSTITUTIONS\n30004 [REDACTED] 15\nRIB(3) (02837)\n(1) International Bank Account Number (2) Bank Identifier Code (3) Relevé d'Identité Bancaire",
+  "score": 19
+}
