@@ -45,8 +45,8 @@ Ce moteur permet :
 ```bash
 Mise-en-SP-Sujet-8/
 │
-├── demo                    # Video de demonstration du projet (Livrable attendue)
-├── docs                    # Rapport du projet + documents annexe utilisé/télécharger au cours du projet (Livrable attendue)
+├── demo                    # document d'exemple utiliser dans l'analyse et le test de l'application
+├── docs                    # Rapport du projet + documents/JSON annexe utilisé/télécharger au cours du projet (Livrable attendue)
 ├── src/
 │   ├── api.py              # FastAPI + UI + API JSON + Export PDF
 │   ├── detection/
