@@ -45,17 +45,19 @@ Ce moteur permet :
 ```bash
 Mise-en-SP-Sujet-8/
 │
+├── demo                    # Video de demonstration du projet (Livrable attendue)
+├── docs                    # Rapport du projet + documents annexe utilisé/télécharger au cours du projet (Livrable attendue)
 ├── src/
-│   ├── api.py                # FastAPI + UI + API JSON + Export PDF
+│   ├── api.py              # FastAPI + UI + API JSON + Export PDF
 │   ├── detection/
-│   │   ├── detector.py       # Détection des patterns sensibles
-│   │   ├── rules.py          # Règles (regex) + poids
-│   │   ├── scorer.py         # Calcul du score
-│   │   └── redact.py         # Caviardage
+│   │   ├── detector.py     # Détection des patterns sensibles
+│   │   ├── rules.py        # Règles (regex) + poids
+│   │   ├── scorer.py       # Calcul du score
+│   │   └── redact.py       # Caviardage
 │   └── utils/
-│       └── file_parser.py    # Lecture PDF & TXT
+│       └── file_parser.py  # Lecture PDF & TXT
 │
-├── templates/                # Pages HTML (upload + résultats)
+├── templates/              # Pages HTML (upload + résultats)
 │   ├── upload.html
 │   └── result.html
 │
